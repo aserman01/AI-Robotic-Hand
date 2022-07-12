@@ -8,7 +8,7 @@ Before starting, many thanks to my project partner Busenaz Kerimgil. This projec
 
 These two files would be enough for you to get this project working after initializing basic files for KL25Z MC. I also used an Ardunio Nano to make serial communications easier and more traceable, however it is not necessery. 
 
-I 3D-Printed this hand from InMoov: https://inmoov.fr/hand-and-forarm/ (Gael Langevin has a great tutorial about it and he is building a full robotic body!)
+I 3D-Printed this hand from InMoov: https://inmoov.fr/hand-and-forarm/ (Gael Langevin has a great tutorial about it and he is building a full robotic body himself!)
 
 ### Prerequisites
 
