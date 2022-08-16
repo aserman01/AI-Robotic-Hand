@@ -15,4 +15,4 @@ I 3D-Printed this hand from InMoov: https://inmoov.fr/hand-and-forarm/ (Gael Lan
 
 ![6- Final Product](https://user-images.githubusercontent.com/29065812/178454361-8f6eb8ef-7179-4449-899e-dc943b4fde71.jpg)
 
-You can find more photos in media folder!
+You can find more images and videos in media folder!
