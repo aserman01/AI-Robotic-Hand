@@ -1,6 +1,6 @@
 # AI Controlled Robotic Hand
 
-This project is for a robotic hand controlled by AI for FRDM-KL25Z Microcontroller. Hand mimmicks the user's finger gestures through a camera. It has 5 different states (fully closed, %25, %50, %75, fully open) for each finger individually and number of states could be increased with more optimization easily.
+This project is for a robotic hand controlled by AI for FRDM-KL25Z Microcontroller. Hand mimmicks the user's finger gestures through a camera. Using OpenCV library in Python critical points on the hand are detected and angles between the joints of the fingers seen by the camera are sent to the Microcontroller. It has 5 different states (fully closed, %25, %50, %75, fully open) for each finger individually and number of states could be increased with more optimization easily. Servos moves the strong rope (a fishing line in our case) and creates the motion of contraction in the 3D printed hand.
 
 Before starting, many thanks to my project partner Busenaz Kerimgil. This project is her work as well as mine. 
 
